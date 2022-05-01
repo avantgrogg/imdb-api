@@ -1,2 +1,0 @@
-# imdb-api
-Begin app
